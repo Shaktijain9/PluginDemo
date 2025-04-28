@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="payment-paypal-sdk" />
+        <module name="payment-app" />
+        <module name="payment-stripe-sdk" />
+        <module name="payment-stripe" />
+        <module name="payment-razorpay-sdk" />
+        <module name="payment-api" />
+        <module name="payment-razorpay" />
+        <module name="payment-paypal" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
